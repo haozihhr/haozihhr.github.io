@@ -1,0 +1,29 @@
+{
+    "name": "test_setting",
+    "use_javascript": false,
+    "menu": [
+        {
+            "icon": "build",
+            "content": "aaa",
+            "url": "bbb"
+        }
+    ],
+    "more_menu": [
+        {
+            "icon": "devices",
+            "content": "TEXT",
+            "url": "bbb"
+        },
+        {
+            "icon": "build",
+            "content": "aaa",
+            "url": "bbb"
+        }
+    ],
+    
+    "footer": [
+        "纯文本",
+        ["百度一下，我就知道", "http://www.baidu.com/"]
+        ["sadepa", "https://sadepa.gitee.io"]
+    ]
+}
