@@ -1,6 +1,4 @@
-# Hello `Cdm's docs`!
-如果你看到这个页面的话, 说明你已经部署成功了!  
-
-打开侧边栏, 这里是一些示例文档, 给你展示`Cdm's docs`的**部分**功能
-
-现在, 开始享受吧!
+![cdm's docs](https://docs.cdms.vip/favicon.ico)
+# Cdm's Docs
+一个使用mdui，易于部署的文档系统
+**注意**：此存储库并非我创建，原链接是https://docs.cdms.vip
